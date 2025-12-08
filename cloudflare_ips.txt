@@ -10,3 +10,7 @@ yg9.ygkkk.dpdns.org:443#yg9
 yg10.ygkkk.dpdns.org:443#yg10
 yg11.ygkkk.dpdns.org:443#yg11
 yg12.ygkkk.dpdns.org:443#yg12
+172.64.147.104:80#优选1
+172.64.147.104:443#优选1
+104.18.40.152:80#优选2
+104.18.40.152:443#优选2
