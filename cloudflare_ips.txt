@@ -1,4 +1,8 @@
 saas.sin.fan:443#saas
+cf.877774.xyz:443#三网自适应
+ct.877774.xyz:443#中国电信
+cmcc.877774.xyz:443#中国移动
+cu.877774.xyz:443#中国联通
 yg1.ygkkk.dpdns.org:443#yg1
 yg2.ygkkk.dpdns.org:443#yg2
 yg3.ygkkk.dpdns.org:443#yg3
@@ -23,5 +27,6 @@ yg12.ygkkk.dpdns.org:443#yg12
 104.18.43.50:443#移动4
 104.16.148.11:443#移动5
 104.16.148.10:443#移动6
+
 
 
